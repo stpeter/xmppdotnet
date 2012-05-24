@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>xmpp.net</title>
+<link rel="stylesheet" type="text/css" href="xmpp.css" />
+</head>
+<body>
+<h1>xmpp.net verification</h1>
+<p>When a server administrator <a href='register.html'>registers</a> a <a href='/'>public XMPP service</a> with xmpp.net, here is how we verify the registration:</p>
+<ol>
+<li>
+<p>Ensure that the request is approved by one of the official representatives for the <em>root</em> domain by forwarding the message sent on the <a href='http://mail.jabber.org/mailman/listinfo/operators'>operators@xmpp.org list</a> to (1) the email address(es) listed in the whois record for the root domain and (2) the hostmaster/postmaster/webmaster email addresses for the root domain. (By &#8220;root domain&#8221; we mean the lowest-level domain that can be looked up in whois &#8212; e.g., if the XMPP service is running at im.example.com then we contact the owners and admins for example.com.)</p>
+<p>Typically the message we send says something like this:</p>
+<blockquote><p>&#8220;Please verify that you approve of this request to add im.example.com to the list at http://xmpp.net/&#8230;&#8221;</p>
+</blockquote>
+</li>
+<li>
+<p>Check for appropriate DNS SRV records using the dig command, such as:</p>
+<blockquote><p>dig +short -t SRV _xmpp-client._tcp.im.example.com</p>
+<p>dig +short -t SRV _xmpp-server._tcp.im.example.com</p>
+</blockquote>
+</li>
+<li>
+<p>Verify that there is indeed an XMPP service running at the domain for server-to-server and client-to-server communications using telnet to the ports discovered via SRV lookups, such as:</p>
+<blockquote><p>telnet im.example.com 5222</p>
+<p>telnet im.example.com 5269</p>
+</blockquote>
+<li>
+<p>Validate the certificate against the root cert of the security provider to make sure that secure connections can be established without errors. We do this by checking port 5222 using the OpenSSL s_client feature, such as:</p>
+<blockquote><p>openssl s_client -connect im.example.com:5222 -starttls xmpp -CAfile startcom.crt</p>
+</blockquote>
+</li>
+<li>
+<p>Visit the website of the service to make sure that it is accurate, provides contact information, etc.</p>
+</li>
+<li>
+<p>Communicate with the service administrator via XMPP.</p>
+</li>
+</ol>
+</body>
+</html>
