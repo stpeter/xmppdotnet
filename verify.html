@@ -28,9 +28,9 @@
 <p>telnet im.example.com 5269</p>
 </blockquote>
 <li>
-<p>Validate the certificate against the root cert of the security provider to make sure that secure connections can be established without errors. We do this by checking port 5222 using the OpenSSL s_client feature, such as:</p>
-<blockquote><p>openssl s_client -connect im.example.com:5222 -starttls xmpp -CAfile startcom.crt</p>
-</blockquote>
+<p>Validate the certificate against the root cert of the security provider to make sure that secure connections can be established without errors. We do this by checking STARTTLS on port 5222 or SSL on port 5223 using the OpenSSL s_client feature, such as:</p>
+<blockquote><p>openssl s_client -connect im.example.com:5222 -starttls xmpp -CAfile startcom.crt</p></blockquote>
+<blockquote><p>openssl s_client -connect im.example.com:5223 -CAfile startcom.crt</p></blockquote>
 </li>
 <li>
 <p>Visit the website of the service to make sure that it is accurate, provides contact information, etc.</p>
