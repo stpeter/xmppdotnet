@@ -1,1 +1,1 @@
-<vcards>
+<vcards xmlns='urn:ietf:params:xml:ns:vcard-4.0'>
