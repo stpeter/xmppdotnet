@@ -17,7 +17,7 @@
       </head>
       <body>
         <h1>xmpp.net</h1>
-        <p>There are thousands of <a href='http://xmpp.org/'>XMPP</a> services deployed on the Internet. In addition to large, well-known services such as Google Talk, there are also many smaller services run by volunteers in the XMPP community, starting with the <a href='http://www.jabber.org/'>jabber.org</a> service launched in 1999. The following table lists the public XMPP services that have registered with xmpp.net, but there are many more such services on the Internet so this is not a complete list! Additional lists are available at <a href='http://www.jabberes.org/servers/'>www.jabberes.org</a> and <a href='https://list.jabber.at/'>list.jabber.at</a>. (Developers and server admins, please read the <a href='#tech'>technical notes</a>.)</p>
+        <p>There are thousands of <a href='http://xmpp.org/'>XMPP</a> services deployed on the Internet. In addition to large, well-known services such as Google Talk, there are also many smaller services run by volunteers in the XMPP community, starting with the <a href='http://www.jabber.org/'>jabber.org</a> service launched in 1999. The following table lists the public XMPP services that have registered with xmpp.net, but there are many more such services on the Internet so this is not a complete list! An additional list is available at <a href='https://list.jabber.at/'>list.jabber.at</a>. (Developers and server admins, please read the <a href='#tech'>technical notes</a>.)</p>
         <table border='1' cellpadding='3' cellspacing='0' class='sortable'>
           <tr valign='top'>
             <th>Domain</th>
