@@ -1,21 +1,21 @@
 <vcard>
     <fn>
-        <text>boese-ban.de</text>
+        <text>krautspace.de</text>
     </fn>
     <kind>
         <text>application</text>
     </kind>
     <url>
-        <uri>https://datenknoten.me/dienste/xmpp</uri>
+        <uri>https://www.krautspace.de/hswiki:noc</uri>
     </url>
     <note>
-        <text>XMPP-Service run by Tim Schumacher.</text>
+        <text>XMPP-Service run by the Hackspace Jena e.V..</text>
     </note>
     <registration xmlns='urn:xmpp:vcard:registration:1'>
-        <uri>https://datenknoten.me/registrieren/</uri>
+        <uri>https://www.krautspace.de/xmpp/</uri>
     </registration>
     <bday>
-        <date>2008</date>
+        <date>2010</date>
     </bday>
     <adr>
         <country>DE</country>
@@ -26,6 +26,6 @@
     </ca>
     <name xmlns='jabber:iq:version'>Prosody</name>
     <impp>
-        <uri>xmpp:tim@boese-ban.de</uri>
+        <uri>xmpp:krautchan@chat.krautspace.de</uri>
     </impp>
 </vcard>
