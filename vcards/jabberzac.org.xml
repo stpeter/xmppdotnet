@@ -1,0 +1,34 @@
+<vcard>
+	<fn>
+		<text>jabberzac.org</text>
+	</fn>
+	<kind>
+		<text>application</text>
+	</kind>
+	<url>
+		<uri>http://jabberzac.org/</uri>
+	</url>
+	<note>
+		<text>Australian-based public XMPP server, conference-focussed but open for general use.</text>
+	</note>
+	<registration xmlns='urn:xmpp:vcard:registration:1'>
+		<uri>https://jabberzac.org/register/</uri>
+	</registration>
+	<bday>
+		<date>2010</date>
+	</bday>
+	<adr>
+		<country>AU</country>
+	</adr>
+	<ca xmlns='urn:xmpp:vcard:ca:0'>
+		<name>StartSSL</name>
+		<uri>http://www.startssl.com//</uri>
+	</ca>
+	<name xmlns='jabber:iq:version'>Prosody</name>
+	<impp>
+		<uri>xmpp:mike@bremensaki.com</uri>
+	</impp>
+	<geo>
+		<uri>geo:-37.8,144.9</uri>
+	</geo>
+</vcard>
