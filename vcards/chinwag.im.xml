@@ -9,7 +9,7 @@
 		<uri>http://chinwag.im/</uri>
 	</url>
 	<note>
-		<text>Australian-based public XMPP server, conference-focussed but open for general use.</text>
+		<text>Australian-based public XMPP server, attempting to provide best possible end-user experience.</text>
 	</note>
 	<registration xmlns='urn:xmpp:vcard:registration:1'>
 		<uri>https://chinwag.im/register/</uri>
