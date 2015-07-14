@@ -1,0 +1,34 @@
+<vcard>
+	<fn>
+		<text>chinwag.im</text>
+	</fn>
+	<kind>
+		<text>application</text>
+	</kind>
+	<url>
+		<uri>https://chinwag.im/</uri>
+	</url>
+	<note>
+		<text>Australian-based public XMPP server, attempting to provide best possible end-user experience.</text>
+	</note>
+	<registration xmlns='urn:xmpp:vcard:registration:1'>
+		<uri>https://chinwag.im/register/</uri>
+	</registration>
+	<bday>
+		<date>2015</date>
+	</bday>
+	<adr>
+		<country>AU</country>
+	</adr>
+	<ca xmlns='urn:xmpp:vcard:ca:0'>
+		<name>StartSSL</name>
+		<uri>http://www.startssl.com//</uri>
+	</ca>
+	<name xmlns='jabber:iq:version'>Prosody</name>
+	<impp>
+		<uri>xmpp:admin@chinwag.im</uri>
+	</impp>
+	<geo>
+		<uri>geo:-37.8,144.9</uri>
+	</geo>
+</vcard>
