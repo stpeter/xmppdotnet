@@ -1,0 +1,28 @@
+<vcard>
+    <fn>
+        <text>kwoh.de</text>
+    </fn>
+    <kind>
+        <text>application</text>
+    </kind>
+    <url>
+        <uri>https://blog.kwoh.de/pages/jabber.html</uri>
+    </url>
+    <note>
+        <text></text>
+    </note>
+    <bday>
+        <date>2014</date>
+    </bday>
+    <adr>
+        <country>DE</country>
+    </adr>
+    <ca xmlns='urn:xmpp:vcard:ca:0'>
+        <name>CAcert</name>
+        <uri>http://www.cacert.org/</uri>
+    </ca>
+    <name xmlns='jabber:iq:version'>Prosody</name>
+    <impp>
+        <uri>xmpp:jan@kwoh.de</uri>
+    </impp>
+</vcard>
