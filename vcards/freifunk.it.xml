@@ -1,7 +1,7 @@
 <vcard>
   <fn>
     <text>
-      kJabber.de
+      Freifunk.it
     </text>
   </fn>
   <kind>
@@ -11,17 +11,17 @@
   </kind>
   <url>
     <uri>
-      https://www.kjabber.de/
+      http://www.freifunk.it/
     </uri>
   </url>
   <note>
     <text>
-      kJabber.de :: Semi-Open Jabber-Host in DE, NL and US with onion-Routing
+      Freifunk.it - Jabber für Freifunker, angeboten von kJabber.de
     </text>
   </note>
   <registration xmlns='urn:xmpp:vcard:registration:1'>
     <uri>
-      https://www.kjabber.de/account.htm
+      http://www.freifunk.it
     </uri>
   </registration>
   <bday>
