@@ -1,0 +1,34 @@
+<vcard>
+	<fn>
+		<text>chatme.sexy</text>
+	</fn>
+	<kind>
+		<text>application</text>
+	</kind>
+	<url>
+		<uri>http://chatme.im/</uri>
+	</url>
+	<note>
+		<text>The first Italian public XMPP server, all free with Jingle nodes.</text>
+	</note>
+	<registration xmlns='urn:xmpp:vcard:registration:1'>
+		<uri>https://webchat.chatme.im</uri>
+	</registration>
+	<bday>
+		<date>2014</date>
+	</bday>
+	<adr>
+		<country>IT</country>
+	</adr>
+	<ca xmlns='urn:xmpp:vcard:ca:0'>
+		<name>CAcert</name>
+		<uri>http://www.cacert.org/</uri>
+	</ca>
+	<name xmlns='jabber:iq:version'>Prosody</name>
+	<impp>
+		<uri>xmpp:admin@chatme.im</uri>
+	</impp>
+	<geo>
+		<uri>geo:45.4,12.14</uri>
+	</geo>
+</vcard>
