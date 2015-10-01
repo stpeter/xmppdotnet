@@ -1,73 +1,43 @@
 <vcard>
   <fn>
-    <text>
-      randomlol.de
-    </text>
+    <text>randomlol.de</text>
   </fn>
   <kind>
-    <text>
-      application
-    </text>
+    <text>application</text>
   </kind>
   <url>
-    <uri>
-      http://www.randomlol.de/jabber
-    </uri>
+    <uri>http://www.randomlol.de/jabber</uri>
   </url>
   <note>
-    <text>
-      randomlol.de public Jabber Server
-    </text>
+    <text>randomlol.de public Jabber Server</text>
   </note>
   <registration xmlns='urn:xmpp:vcard:registration:1'>
-    <uri>
-      xmpp:randomlol.de
-    </uri>
+    <uri>xmpp:randomlol.de</uri>
   </registration>
   <bday>
-    <date>
-      2015
-    </date>
+    <date>2015</date>
   </bday>
   <adr>
-    <country>
-      DE
-    </country>
+    <country>DE</country>
   </adr>
   <ca xmlns='urn:xmpp:vcard:ca:0'>
-    <name>
-      StartSSL
-    </name>
-    <uri>
-      http://www.startssl.com/
-    </uri>
+    <name>StartSSL</name>
+    <uri>http://www.startssl.com/</uri>
   </ca>
-  <name xmlns='jabber:iq:version'>
-    ejabberd
-  </name>
+  <name xmlns='jabber:iq:version'>ejabberd 14.07</name>
   <impp>
-    <uri>
-      xmpp:teian@randomlol.de
-    </uri>
+    <uri>xmpp:teian@randomlol.de</uri>
   </impp>
   <geo>
-    <uri>
-      geo:49.452,11.077
-    </uri>
+    <uri>geo:49.452,11.077</uri>
   </geo>
   <tz>
-    <text>
-      Europe/Berlin
-    </text>
+    <text>Europe/Berlin</text>
   </tz>
   <lang>
     <parameters>
-      <pref>
-        1
-      </pref>
+      <pref>1</pref>
     </parameters>
-    <language-tag>
-      de
-    </language-tag>
+    <language-tag>de</language-tag>
   </lang>
 </vcard>
