@@ -1,0 +1,31 @@
+<vcard>
+    <fn>
+        <text>hoth.one</text>
+    </fn>
+    <kind>
+        <text>application</text>
+    </kind>
+    <url>
+        <uri>https://www.hoth.one/xmpp</uri>
+    </url>
+    <note>
+        <text>XMPP-Service run by hoth.one</text>
+    </note>
+    <registration xmlns='urn:xmpp:vcard:registration:1'>
+        <uri>https://hoth.one:5281/register_web</uri>
+    </registration>
+    <bday>
+        <date>2015</date>
+    </bday>
+    <adr>
+        <country>DE</country>
+    </adr>
+    <ca xmlns='urn:xmpp:vcard:ca:0'>
+        <name>StartSSL</name>
+        <uri>http://www.startssl.com/</uri>
+    </ca>
+    <name xmlns='jabber:iq:version'>Prosody</name>
+    <impp>
+        <uri>xmpp:varakh@varakh.de</uri>
+    </impp>
+</vcard>
