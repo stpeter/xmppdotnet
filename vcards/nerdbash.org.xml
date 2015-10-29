@@ -1,0 +1,34 @@
+<vcard>
+    <fn>
+        <text>nerdbash.org</text>
+    </fn>
+    <kind>
+        <text>application</text>
+    </kind>
+    <url>
+        <uri>http://nerdbash.org/</uri>
+    </url>
+    <note>
+        <text>Nerdbash focuses on to be a very secure XMPP Server!</text>
+    </note>
+    <registration xmlns='urn:xmpp:vcard:registration:1'>
+        <uri>http://wiki.nerdbash.org</uri>
+    </registration>
+    <bday>
+        <date>2015</date>
+    </bday>
+    <adr>
+        <country>NL</country>
+    </adr>
+    <ca xmlns='urn:xmpp:vcard:ca:0'>
+        <name>CAcert</name>
+        <uri>http://www.cacert.org/</uri>
+    </ca>
+    <name xmlns='jabber:iq:version'>Prosody</name>
+    <impp>
+        <uri>xmpp:rdash@nerdbash.org</uri>
+    </impp>
+    <geo>
+        <uri>geo:52.1,3.0</uri>
+    </geo>
+</vcard>
