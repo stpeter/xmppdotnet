@@ -21,8 +21,8 @@
         <country>NL</country>
     </adr>
     <ca xmlns='urn:xmpp:vcard:ca:0'>
-        <name>CAcert</name>
-        <uri>http://www.cacert.org/</uri>
+        <name>COMODO</name>
+        <uri>https://www.comodo.net/</uri>
     </ca>
     <name xmlns='jabber:iq:version'>Prosody</name>
     <impp>
