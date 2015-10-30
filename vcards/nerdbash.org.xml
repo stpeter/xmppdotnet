@@ -12,7 +12,7 @@
         <text>Nerdbash focuses on to be a very secure XMPP Server!</text>
     </note>
     <registration xmlns='urn:xmpp:vcard:registration:1'>
-        <uri>http://wiki.nerdbash.org</uri>
+        <uri>http://nerdbash.org</uri>
     </registration>
     <bday>
         <date>2015</date>
