@@ -1,0 +1,43 @@
+<vcard>
+  <fn>
+    <text>ANONYMOUSsb4444v.onion</text>
+  </fn>
+  <kind>
+    <text>application</text>
+  </kind>
+  <url>
+    <uri>http://www.anonymoussb4444v.onion/</uri>
+  </url>
+  <note>
+    <text>ANONYMOUSsb4444v.onion :: Anonymous Jabber Server, provided by kJabber.de</text>
+  </note>
+  <registration xmlns='urn:xmpp:vcard:registration:1'>
+    <uri>xmpp:anonymoussb4444v.onion</uri>
+  </registration>
+  <bday>
+    <date>2015</date>
+  </bday>
+  <adr>
+    <country>DE</country>
+  </adr>
+  <ca xmlns='urn:xmpp:vcard:ca:0'>
+    <name>StartSSL</name>
+    <uri>http://www.startssl.com/</uri>
+  </ca>
+  <name xmlns='jabber:iq:version'>ejabberd</name>
+  <impp>
+    <uri>xmpp:admin@kjabber.de</uri>
+  </impp>
+  <geo>
+    <uri>geo:54.320,10.144</uri>
+  </geo>
+  <tz>
+    <text>Europe/Berlin</text>
+  </tz>
+  <lang>
+    <parameters>
+      <pref>1</pref>
+    </parameters>
+    <language-tag>de</language-tag>
+  </lang>
+</vcard>
