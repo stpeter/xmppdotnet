@@ -1,0 +1,28 @@
+<vcard>
+	<fn>
+		<text>xmpp.svnet.fr</text>
+	</fn>
+	<kind>
+		<text>application</text>
+	</kind>
+	<url>
+		<uri>https://xmpp.svnet.fr/</uri>
+	</url>
+	<note>
+		<text>XMPP SVNET pour chatter Librement tout en respectant la vie privée.</text>
+	</note>
+	<bday>
+		<date>2015</date>
+	</bday>
+	<adr>
+		<country>FR</country>
+	</adr>
+	<ca xmlns='urn:xmpp:vcard:ca:0'>
+		<name>Let's Encrypt</name>
+		<uri>https://www.letsencrypt.org/</uri>
+	</ca>
+	<name xmlns='jabber:iq:version'>Prosody</name>
+	<impp>
+		<uri>xmpp:svnet@xmpp.svnet.fr</uri>
+	</impp>
+</vcard>
