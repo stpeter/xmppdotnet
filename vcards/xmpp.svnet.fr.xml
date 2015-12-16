@@ -11,6 +11,11 @@
 	<note>
 		<text>XMPP SVNET pour chatter Librement tout en respectant la vie privée.</text>
 	</note>
+<registration xmlns='urn:xmpp:vcard:registration:1'>
++    <uri>
++      xmpp:randomlol.de
++    </uri>
++  </registration>
 	<bday>
 		<date>2015</date>
 	</bday>
