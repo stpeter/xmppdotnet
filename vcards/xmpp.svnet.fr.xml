@@ -13,7 +13,7 @@
 	</note>
 <registration xmlns='urn:xmpp:vcard:registration:1'>
 +    <uri>
-+      xmpp:randomlol.de
++      xmpp:xmpp.svnet.fr
 +    </uri>
 +  </registration>
 	<bday>
