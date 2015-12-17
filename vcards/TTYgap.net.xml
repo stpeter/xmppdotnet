@@ -1,0 +1,31 @@
+<vcard>
+    <fn>
+        <text>TTYgap.net</text>
+    </fn>
+    <kind>
+        <text>application</text>
+    </kind>
+    <url>
+        <uri>https://ttygap.net/jabber/</uri>
+    </url>
+    <note>
+        <text>An XMPP server in "tin foil hat mode" located in Germany which only interacts with clients and servers who support ciphers and protocols of high security and Perfect Forward Secrecy. The server communicates only with trusted servers (also CAcert). Server has DNSSEC and DANE. Not recommended for mobile phones. Only In-Band registration.</text>
+    </note>
+    <bday>
+        <date>2015</date>
+    </bday>
+    <adr>
+        <country>DE</country>
+    </adr>
+    <ca xmlns='urn:xmpp:vcard:ca:0'>
+        <name>CAcert Class 3 Root</name>
+        <uri>http://www.cacert.org/index.php?id=3</uri>
+    </ca>
+    <name xmlns='jabber:iq:version'>ejabberd 15.04</name>
+    <impp>
+        <uri>xmpp:bandie@ttygap.net</uri>
+    </impp>
+    <geo>
+        <uri>geo:50.47834,12.33621</uri>
+    </geo>
+</vcard>
