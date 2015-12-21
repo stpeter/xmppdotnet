@@ -1,0 +1,68 @@
+<vcard>
+  <fn>
+    <text>
+      decent.im
+    </text>
+  </fn>
+  <kind>
+    <text>
+      application
+    </text>
+  </kind>
+  <url>
+    <uri>
+      https://decent.im
+    </uri>
+  </url>
+  <note>
+    <text>
+      Decent public Jabber service
+    </text>
+  </note>
+  <registration xmlns='urn:xmpp:vcard:registration:1'>
+    <uri>
+      xmpp:decent.im
+    </uri>
+  </registration>
+  <bday>
+    <date>
+      2015
+    </date>
+  </bday>
+  <adr>
+    <country>
+      DE
+    </country>
+  </adr>
+  <ca xmlns='urn:xmpp:vcard:ca:0'>
+    <name>
+      LetsEncrypt
+    </name>
+    <uri>
+	    https://letsencrypt.org/
+    </uri>
+  </ca>
+  <name xmlns='jabber:iq:version'>
+    Prosody
+  </name>
+  <impp>
+    <uri>
+      xmpp:andrey.utkin@decent.im
+    </uri>
+  </impp>
+  <geo>
+    <uri>
+      geo:51,9
+    </uri>
+  </geo>
+  <lang>
+    <parameters>
+      <pref>
+        1
+      </pref>
+    </parameters>
+    <language-tag>
+      en
+    </language-tag>
+  </lang>
+</vcard>
