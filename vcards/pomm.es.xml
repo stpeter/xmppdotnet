@@ -1,0 +1,34 @@
+<vcard>
+    <fn>
+        <text>pomm.es</text>
+    </fn>
+    <kind>
+        <text>application</text>
+    </kind>
+    <url>
+        <uri>https://pomm.es/</uri>
+    </url>
+    <note>
+        <text>XMPP server focusing on best possible security.</text>
+    </note>
+    <registration xmlns='urn:xmpp:vcard:registration:1'>
+        <uri>xmpp:pomm.es</uri>
+    </registration>
+    <bday>
+        <date>2015</date>
+    </bday>
+    <adr>
+        <country>DE</country>
+    </adr>
+    <ca xmlns='urn:xmpp:vcard:ca:0'>
+        <name>StartSSL</name>
+        <uri>http://www.startssl.com/</uri>
+    </ca>
+    <name xmlns='jabber:iq:version'>Prosody</name>
+    <impp>
+        <uri>xmpp:salz@pomm.es</uri>
+    </impp>
+    <geo>
+    	<uri>geo:50.12,8.49</uri>
+    </geo>
+</vcard>
