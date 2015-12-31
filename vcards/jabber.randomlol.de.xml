@@ -1,6 +1,6 @@
 <vcard>
   <fn>
-    <text>randomlol.de</text>
+    <text>jabber.randomlol.de</text>
   </fn>
   <kind>
     <text>application</text>
@@ -9,10 +9,10 @@
     <uri>http://www.randomlol.de/jabber</uri>
   </url>
   <note>
-    <text>randomlol.de public Jabber Server</text>
+    <text>jabber.randomlol.de public Jabber Server</text>
   </note>
   <registration xmlns='urn:xmpp:vcard:registration:1'>
-    <uri>xmpp:randomlol.de</uri>
+    <uri>xmpp:jabber.randomlol.de</uri>
   </registration>
   <bday>
     <date>2015</date>
@@ -26,7 +26,7 @@
   </ca>
   <name xmlns='jabber:iq:version'>ejabberd 14.07</name>
   <impp>
-    <uri>xmpp:teian@randomlol.de</uri>
+    <uri>xmpp:teian@jabber.randomlol.de</uri>
   </impp>
   <geo>
     <uri>geo:49.452,11.077</uri>
