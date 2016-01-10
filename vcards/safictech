@@ -1,0 +1,34 @@
+<vcard>
+	<fn>
+		<text>chat.safic.net</text>
+	</fn>
+	<kind>
+		<text>application</text>
+	</kind>
+	<url>
+		<uri>https://chat.safic.net/</uri>
+	</url>
+	<note>
+		<text>Safic Tech Public Xmpp server,free with Jingle nodes.</text>
+	</note>
+	<registration xmlns='urn:xmpp:vcard:registration:1'>
+		<uri>https://chat.safic.net:9091/plugins/registration/sign-up.jsp</uri>
+	</registration>
+	<bday>
+		<date>2015</date>
+	</bday>
+	<adr>
+		<country>US</country>
+	</adr>
+	<ca xmlns='urn:xmpp:vcard:ca:0'>
+		<name>StartSSL</name>
+		<uri>https://www.startssl.com/</uri>
+	</ca>
+	<name xmlns='jabber:iq:version'>OpenFire.Beta</name>
+	<impp>
+		<uri>xmpp:tim@chat.safic.net</uri>
+	</impp>
+	<geo>
+		<uri>geo:32.1,82.9</uri>
+	</geo>
+</vcard>
