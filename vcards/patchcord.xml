@@ -1,0 +1,30 @@
+<vcard>
+    <fn>
+        <text>patchcord.be</text>
+    </fn>
+    <kind>
+        <text>application</text>
+    </kind>
+    <note>
+        <text>XMPP-Service run by Drixter</text>
+    </note>
+    <registration xmlns='urn:xmpp:vcard:registration:1'>
+        <uri>xmpp:patchcord.be</uri>
+    </registration>
+    <bday>
+        <date>2016</date>
+    </bday>
+    <adr>
+        <country>EU</country>
+    </adr>
+    <ca xmlns='urn:xmpp:vcard:ca:0'>
+        <name>StartSSL</name>
+        <uri>http://www.startssl.com/</uri>
+    </ca>
+    <name xmlns='jabber:iq:version'>Ejabberd</name>
+    <impp>
+        <uri>xmpp:drixter@e-utp.net</uri>
+    </impp>
+</vcard>
+
+
