@@ -1,0 +1,34 @@
+<vcard>
+    <fn>
+        <text>gnu.gr</text>
+    </fn>
+    <kind>
+        <text>application</text>
+    </kind>
+    <url>
+        <uri>https://gnu.gr/</uri>
+    </url>
+    <note>
+        <text>Greek Jabber server run by Hackerspace.gr.</text>
+    </note>
+    <registration xmlns='urn:xmpp:vcard:registration:1'>
+        <uri>https://gnu.gr</uri>
+    </registration>
+    <bday>
+        <date>2016</date>
+    </bday>
+    <adr>
+        <country>GR</country>
+    </adr>
+    <ca xmlns='urn:xmpp:vcard:ca:0'>
+        <name>Let's Encrypt</name>
+        <uri>https://letsencrypt.org</uri>
+    </ca>
+    <name xmlns='jabber:iq:version'>ejabberd</name>
+    <impp>
+        <uri>xmpp:hsgr@conf.gnu.gr</uri>
+    </impp>
+    <geo>
+        <uri>geo:37.97,23.73</uri>
+    </geo>
+</vcard>
