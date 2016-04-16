@@ -1,0 +1,31 @@
+<vcard>
+  <fn>
+    <text>xmpp.dk</text>
+  </fn>
+  <kind>
+    <text>application</text>
+  </kind>
+  <url><
+    uri>https://xmpp.dk/</uri>
+  </url>
+  <note>
+    <text>Open, free and secure jabber server for everyone</text>
+  </note>
+  <registration xmlns='urn:xmpp:vcard:registration:1'>
+    <uri>xmpp:xmpp.dk</uri>
+  </registration>
+  <bday>
+    <date>2016</date>
+  </bday>
+  <adr>
+    <country>FR</country>
+  </adr>
+  <ca xmlns='urn:xmpp:vcard:ca:0'>
+    <name>Let's Encrypt</name>
+    <uri>https://www.letsencrypt.org</uri>
+  </ca>
+  <name xmlns='jabber:iq:version'>Prosody</name>
+  <impp>
+    <uri>xmpp:graffen@xmpp.dk</uri>
+  </impp>
+</vcard>
