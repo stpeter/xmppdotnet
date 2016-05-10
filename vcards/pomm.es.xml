@@ -1,32 +1,32 @@
 <vcard>
     <fn>
-        <text>pomm.es</text>
+        <text>0101010.one</text>
     </fn>
     <kind>
         <text>application</text>
     </kind>
     <url>
-        <uri>https://pomm.es/</uri>
+        <uri>https://0101010.ones/</uri>
     </url>
     <note>
         <text>XMPP server focusing on best possible security.</text>
     </note>
     <registration xmlns='urn:xmpp:vcard:registration:1'>
-        <uri>xmpp:pomm.es</uri>
+        <uri>xmpp:0101010.one</uri>
     </registration>
     <bday>
-        <date>2015</date>
+        <date>2016</date>
     </bday>
     <adr>
         <country>DE</country>
     </adr>
     <ca xmlns='urn:xmpp:vcard:ca:0'>
-        <name>StartSSL</name>
-        <uri>http://www.startssl.com/</uri>
+        <name>Let's Encrypt Authority X3</name>
+        <uri>https://letsencrypt.org/</uri>
     </ca>
     <name xmlns='jabber:iq:version'>Prosody</name>
     <impp>
-        <uri>xmpp:salz@pomm.es</uri>
+        <uri>xmpp:one@0101010.one</uri>
     </impp>
     <geo>
     	<uri>geo:50.12,8.49</uri>
