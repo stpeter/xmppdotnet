@@ -1,0 +1,31 @@
+<vcard>
+    <fn>
+        <text>jabber.kernel-error.de</text>
+    </fn>
+    <kind>
+        <text>application</text>
+    </kind>
+    <url>
+        <uri>https://www.kernel-error.de/jabber-server</uri>
+    </url>
+    <note>
+        <text>XMPP-Service run by Sebastian van de Meer.</text>
+    </note>
+    <registration xmlns='urn:xmpp:vcard:registration:1'>
+        <uri>https://jabber.kernel-error.de:9091/plugins/registration/sign-up.jsp</uri>
+    </registration>
+    <bday>
+        <date>2004</date>
+    </bday>
+    <adr>
+        <country>DE</country>
+    </adr>
+    <ca xmlns='urn:xmpp:vcard:ca:0'>
+        <name>StartSSL</name>
+        <uri>http://www.startssl.com/</uri>
+    </ca>
+    <name xmlns='jabber:iq:version'>Openfire</name>
+    <impp>
+        <uri>xmpp:kernel@jabber.kernel-error.de</uri>
+    </impp>
+</vcard>
