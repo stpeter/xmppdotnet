@@ -1,0 +1,31 @@
+<vcard>
+	<fn>
+		<text>hda.me</text>
+	</fn>
+	<kind>
+		<text>application</text>
+	</kind>
+	<url>
+		<uri>https://im.hda.me/</uri>
+	</url>
+	<note>
+		<text>HDA IM. XMMP/Jabber server with full Forward secrecy.</text>
+	</note>
+	<registration xmlns='urn:xmpp:vcard:registration:1'>
+		<uri>xmpp:hda.me</uri>
+	</registration>
+	<bday>
+		<date>2014</date>
+	</bday>
+	<adr>
+		<country>FR</country>
+	</adr>
+	<ca xmlns='urn:xmpp:vcard:ca:0'>
+		<name>StartCom</name>
+		<uri>https://www.startssl.com/</uri>
+	</ca>
+	<name xmlns='jabber:iq:version'>Prosody Trunk</name>
+	<impp>
+		<uri>xmpp:im@hda.me</uri>
+	</impp>
+</vcard>
