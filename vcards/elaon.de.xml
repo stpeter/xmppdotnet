@@ -6,10 +6,10 @@
     <text>application</text>
   </kind>
   <url>
-    <uri>http://elaon.de/</uri>
+    <uri>https://elaon.de</uri>
   </url>
   <note>
-    <text>elaon.de - Ein deutscher XMPP Server</text>
+    <text>A german XMPP Server for everyone. Full support for conversations and include many Extensions.</text>
   </note>
   <registration xmlns='urn:xmpp:vcard:registration:1'>
     <uri>xmpp:elaon.de</uri>
@@ -22,7 +22,7 @@
   </adr>
   <ca xmlns='urn:xmpp:vcard:ca:0'>
     <name>Let's Encrypt</name>
-    <uri>https://letsencrypt.org/</uri>
+    <uri>https://letsencrypt.org</uri>
   </ca>
   <name xmlns='jabber:iq:version'>Prosody 0.10 nightly</name>
   <impp>
