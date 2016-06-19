@@ -1,0 +1,43 @@
+<vcard>
+  <fn>
+    <text>elaon.de</text>
+  </fn>
+  <kind>
+    <text>application</text>
+  </kind>
+  <url>
+    <uri>http://elaon.de/</uri>
+  </url>
+  <note>
+    <text>elaon.de - Ein deutscher XMPP Server</text>
+  </note>
+  <registration xmlns='urn:xmpp:vcard:registration:1'>
+    <uri>xmpp:elaon.de</uri>
+  </registration>
+  <bday>
+    <date>2015</date>
+  </bday>
+  <adr>
+    <country>DE</country>
+  </adr>
+  <ca xmlns='urn:xmpp:vcard:ca:0'>
+    <name>Let's Encrypt</name>
+    <uri>https://letsencrypt.org/</uri>
+  </ca>
+  <name xmlns='jabber:iq:version'>Prosody 0.10 nightly</name>
+  <impp>
+    <uri>xmpp:alex@elaon.de</uri>
+  </impp>
+  <geo>
+    <uri>geo:51.2172,7.0102</uri>
+  </geo>
+  <tz>
+    <text>Europe/Berlin</text>
+  </tz>
+  <lang>
+    <parameters>
+      <pref>1</pref>
+    </parameters>
+    <language-tag>de</language-tag>
+  </lang>
+</vcard>
