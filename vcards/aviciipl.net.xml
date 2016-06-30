@@ -1,0 +1,37 @@
+<vcard>
+	<fn>
+		<text>aviciipl.net</text>
+	</fn>
+	<kind>
+		<text>application</text>
+	</kind>
+	<url>
+		<uri>http://jabber.aviciipl.net</uri>
+	</url>
+	<note>
+		<text>An Polish XMPP hosted in France</text>
+	</note>
+	<registration xmlns='urn:xmpp:vcard:registration:1'>
+		<uri>http://jabber.aviciipl.net</uri>
+	</registration>
+	<bday>
+		<date>2015</date>
+	</bday>
+	<adr>
+		<country>PL</country>
+	</adr>
+	<ca xmlns='urn:xmpp:vcard:ca:0'>
+		<name>StartSSL</name>
+		<uri>http://www.startssl.com/</uri>
+	</ca>
+	<name xmlns='jabber:iq:version'>ejabberd</name>
+	<impp>
+		<uri>xmpp:admin@aviciipl.net</uri>
+	</impp>
+	<geo>
+		<uri>geo:50.69,3.17</uri>
+	</geo>
+    <tz>
+        <text>Europe/Roubaix</text>
+    </tz>
+</vcard>
