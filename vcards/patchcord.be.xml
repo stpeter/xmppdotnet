@@ -6,7 +6,7 @@
         <text>application</text>
     </kind>
     <note>
-        <text>XMPP-Service run by Drixter</text>
+        <text>patchcord.be - Public XMPP (Jabber) Service</text>
     </note>
     <registration xmlns='urn:xmpp:vcard:registration:1'>
         <uri>xmpp:patchcord.be</uri>
@@ -21,7 +21,7 @@
         <name>StartSSL</name>
         <uri>http://www.startssl.com/</uri>
     </ca>
-    <name xmlns='jabber:iq:version'>Ejabberd</name>
+    <name xmlns='jabber:iq:version'>ejabberd</name>
     <impp>
         <uri>xmpp:drixter@e-utp.net</uri>
     </impp>
