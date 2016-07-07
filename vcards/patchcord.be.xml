@@ -5,6 +5,9 @@
     <kind>
         <text>application</text>
     </kind>
+    <url>
+        <uri>https://patchcord.be/</uri>
+    </url>
     <note>
         <text>patchcord.be - Public XMPP (Jabber) Service</text>
     </note>
@@ -15,7 +18,7 @@
         <date>2016</date>
     </bday>
     <adr>
-        <country>EU</country>
+        <country>DE</country>
     </adr>
     <ca xmlns='urn:xmpp:vcard:ca:0'>
         <name>StartSSL</name>
@@ -25,6 +28,9 @@
     <impp>
         <uri>xmpp:drixter@e-utp.net</uri>
     </impp>
+    <geo>
+        <uri>geo:50.12,8.67</uri>
+    </geo>
 </vcard>
 
 
