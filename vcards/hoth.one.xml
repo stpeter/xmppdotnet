@@ -6,13 +6,13 @@
         <text>application</text>
     </kind>
     <url>
-        <uri>https://www.hoth.one/xmpp</uri>
+        <uri>https://jabber.hoth.one</uri>
     </url>
     <note>
         <text>XMPP-Service run by hoth.one</text>
     </note>
     <registration xmlns='urn:xmpp:vcard:registration:1'>
-        <uri>https://hoth.one:5281/register_web</uri>
+        <uri>https://jabber.hoth.one/signup</uri>
     </registration>
     <bday>
         <date>2015</date>
@@ -21,11 +21,14 @@
         <country>DE</country>
     </adr>
     <ca xmlns='urn:xmpp:vcard:ca:0'>
-        <name>StartSSL</name>
-        <uri>http://www.startssl.com/</uri>
+        <name>Let's Encrypt</name>
+        <uri>https://letsencrypt.org</uri>
     </ca>
     <name xmlns='jabber:iq:version'>Prosody</name>
     <impp>
         <uri>xmpp:varakh@varakh.de</uri>
     </impp>
+    <geo>
+        <uri>51.5166667,7.45</uri>
+    </geo>
 </vcard>
