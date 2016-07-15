@@ -1,0 +1,31 @@
+<vcard>
+    <fn>
+        <text>tchncs.de</text>
+    </fn>
+    <kind>
+        <text>application</text>
+    </kind>
+    <url>
+        <uri>https://tchncs.de/xmpp</uri>
+    </url>
+    <note>
+        <text>tchncs.de Jabberserver with many modern modules. Passed the compilance test by conversations.im</text>
+    </note>
+    <registration xmlns='urn:xmpp:vcard:registration:1'>
+        <uri>https://tchncs.de/xmpp</uri>
+    </registration>
+    <bday>
+        <date>2015</date>
+    </bday>
+    <adr>
+        <country>DE</country>
+    </adr>
+    <ca xmlns='urn:xmpp:vcard:ca:0'>
+        <name>Let's Encrypt</name>
+        <uri>https://letsencrypt.org/</uri>
+    </ca>
+    <name xmlns='jabber:iq:version'>Prosody</name>
+    <impp>
+        <uri>xmpp:technics@tchncs.de</uri>
+    </impp>
+</vcard>
