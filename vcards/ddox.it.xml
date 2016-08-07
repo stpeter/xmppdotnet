@@ -1,0 +1,31 @@
+<vcard>
+	<fn>
+		<text>ddox.it</text>
+	</fn>
+	<kind>
+		<text>application</text>
+	</kind>
+	<url>
+		<uri>https://ddox.it</uri>
+	</url>
+	<note>
+		<text>Anonymous XMPP-Service by ddox.</text>
+	</note>
+	<registration xmlns='urn:xmpp:vcard:registration:1'>
+		<uri>https://xmpp.ddox.it/new</uri>
+	</registration>
+	<bday>
+		<date>2016</date>
+	</bday>
+	<adr>
+		<country>RU</country>
+	</adr>
+	<ca xmlns='urn:xmpp:vcard:ca:0'>
+		<name>StartSSL</name>
+		<uri>http://www.startssl.com</uri>
+	</ca>
+	<name xmlns='jabber:iq:version'>ejabberd</name>
+	<impp>
+		<uri>xmpp:ddox@ddox.it</uri>
+	</impp>
+</vcard>
