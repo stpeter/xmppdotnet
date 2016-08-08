@@ -1,0 +1,37 @@
+<vcard>
+  <fn>
+    <text>ulloo.net</text>
+  </fn>
+  <kind>
+    <text>application</text>
+  </kind>
+  <url>
+    <uri>https://ulloo.net</uri>
+  </url>
+  <note>
+    <text>Public XMPP account and free XMPP servers for your domain. We use: TLS encryption client-server and TLS encryption server to server. We don't: store logs, store passwords in cleartext and use the database file.</text>
+  </note>
+  <!-- <registration xmlns='urn:xmpp:vcard:registration:1'>
+    <uri></uri>
+  </registration> -->
+  <bday>
+    <date>2016</date>
+  </bday>
+  <adr>
+    <country>NL</country>
+  </adr>
+  <ca xmlns='urn:xmpp:vcard:ca:0'>
+		<name>StartCom Ltd.</name>
+		<uri>https://www.startcom.org/</uri>
+  </ca>
+  <name xmlns='jabber:iq:version'>Ejabberd</name>
+  <impp>
+    <uri>xmpp:support@ulloo.net</uri>
+  </impp>
+  <geo>
+    <uri>geo:52.35, 4.9166667</uri>
+  </geo>
+  <tz>
+    <text>Europe/Amsterdam</text>
+  </tz>
+</vcard>
