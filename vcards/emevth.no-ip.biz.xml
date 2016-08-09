@@ -1,0 +1,37 @@
+<vcard>
+  <fn>
+    <text>emevth.no-ip.biz</text>
+  </fn>
+  <kind>
+    <text>application</text>
+  </kind>
+  <url>
+    <uri>https://emevth.no-ip.biz/home</uri>
+  </url>
+  <note>
+    <text>emevth.no-ip.biz public Jabber Server</text>
+  </note>
+  <registration xmlns='urn:xmpp:vcard:registration:1'>
+    <uri>xmpp:jabber.emevth.no-ip.biz</uri>
+  </registration>
+  <bday>
+    <date>2014</date>
+  </bday>
+  <adr>
+    <country>FR</country>
+  </adr>
+  <ca xmlns='urn:xmpp:vcard:ca:0'>
+    <name>Let's Encrypt - Free SSL/TLS Certificates</name>
+    <uri>https://letsencrypt.org//</uri>
+  </ca>
+  <name xmlns='jabber:iq:version'>ejabberd 16.08</name>
+  <impp>
+    <uri>xmpp:thorsten@emevth.no-ip.biz</uri>
+  </impp>
+  <lang>
+    <parameters>
+      <pref>1</pref>
+    </parameters>
+    <language-tag>de</language-tag>
+  </lang>
+</vcard>
