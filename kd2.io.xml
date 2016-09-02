@@ -1,0 +1,43 @@
+<vcard>
+  <fn>
+    <text>kd2.io</text>
+  </fn>
+  <kind>
+    <text>application</text>
+  </kind>
+  <url>
+    <uri>https://kd2.io/</uri>
+  </url>
+  <note>
+    <text>kd2.io (clearnet) :: kd2torrloy4oldux.onion (tor)</text>
+  </note>
+  <registration xmlns='urn:xmpp:vcard:registration:1'>
+    <uri>xmpp:kd2.io</uri>
+  </registration>
+  <bday>
+    <date>2016</date>
+  </bday>
+  <adr>
+    <country>US</country>
+  </adr>
+  <ca xmlns='urn:xmpp:vcard:ca:0'>
+    <name>StartSSL</name>
+    <uri>http://www.startssl.com/</uri>
+  </ca>
+  <name xmlns='jabber:iq:version'>ejabberd</name>
+  <impp>
+    <uri>xmpp:admin@kd2.io</uri>
+  </impp>
+  <geo>
+    <uri>geo:32.7831,-96.8067</uri>
+  </geo>
+  <tz>
+    <text>America/Phoenix</text>
+  </tz>
+  <lang>
+    <parameters>
+      <pref>1</pref>
+    </parameters>
+    <language-tag>en</language-tag>
+  </lang>
+</vcard>
