@@ -1,0 +1,43 @@
+<vcard>
+  <fn>
+    <text>purrr.email</text>
+  </fn>
+  <kind>
+    <text>application</text>
+  </kind>
+  <url>
+    <uri>https://purrr.email/</uri>
+  </url>
+  <note>
+    <text>purrr.email - kostenloses E-Mail und XMPP-Konto, angeboten von unicom.ws</text>
+  </note>
+  <registration xmlns='urn:xmpp:vcard:registration:1'>
+    <uri>https://purrr.email/</uri>
+  </registration>
+  <bday>
+    <date>2015</date>
+  </bday>
+  <adr>
+    <country>AT</country>
+  </adr>
+  <ca xmlns='urn:xmpp:vcard:ca:0'>
+    <name>Let's Encrypt</name>
+    <uri>https://letsencrypt.org/</uri>
+  </ca>
+  <name xmlns='jabber:iq:version'>Prosody</name>
+  <impp>
+    <uri>xmpp:rlamboj@purrr.email</uri>
+  </impp>
+  <geo>
+    <uri>geo:47.58,16.24</uri>
+  </geo>
+  <tz>
+    <text>Europe/Vienna</text>
+  </tz>
+  <lang>
+    <parameters>
+      <pref>1</pref>
+    </parameters>
+    <language-tag>de</language-tag>
+  </lang>
+</vcard>
