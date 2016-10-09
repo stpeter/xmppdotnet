@@ -1,0 +1,31 @@
+<vcard>
+    <fn>
+        <text>jabber.sixtopia.net</text>
+    </fn>
+    <kind>
+        <text>application</text>
+    </kind>
+    <url>
+        <uri>http://www.sixtopia.net/?page_id=352</uri>
+    </url>
+    <note>
+        <text>XMPP-Server run by sixtopia.net.</text>
+    </note>
+    <registration xmlns='urn:xmpp:vcard:registration:1'>
+        <uri>https://jabber.sixtopia.net:9091/plugins/registration/sign-up.jsp</uri>
+    </registration>
+    <bday>
+        <date>2016</date>
+    </bday>
+    <adr>
+        <country>DE</country>
+    </adr>
+    <ca xmlns='urn:xmpp:vcard:ca:0'>
+        <name>StartSSL</name>
+        <uri>http://www.cacert.org/</uri>
+    </ca>
+    <name xmlns='jabber:iq:version'>Openfire</name>
+    <impp>
+        <uri>xmpp:info@jabber.sixtopia.net</uri>
+    </impp>
+</vcard>
