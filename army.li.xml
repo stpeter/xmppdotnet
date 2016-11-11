@@ -1,0 +1,43 @@
+<vcard>
+  <fn>
+    <text>Army.Li</text>
+  </fn>
+  <kind>
+    <text>application</text>
+  </kind>
+  <url>
+    <uri>https://Army.Li/</uri>
+  </url>
+  <note>
+    <text>https://Army.Li :: Jabber Server, No Logs, High Speed, Amazing Uptime</text>
+  </note>
+  <registration xmlns='urn:xmpp:vcard:registration:1'>
+    <uri>xmpp:Army.Li</uri>
+  </registration>
+  <bday>
+    <date>2016</date>
+  </bday>
+  <adr>
+    <country>NL</country>
+  </adr>
+  <ca xmlns='urn:xmpp:vcard:ca:0'>
+    <name>StartSSL</name>
+    <uri>http://www.startssl.com/</uri>
+  </ca>
+  <name xmlns='jabber:iq:version'>ejabberd</name>
+  <impp>
+    <uri>xmpp:k@army.li</uri>
+  </impp>
+  <geo>
+    <uri>geo:52.370,4.895</uri>
+  </geo>
+  <tz>
+    <text>Netherlands/Amsterdam</text>
+  </tz>
+  <lang>
+    <parameters>
+      <pref>1</pref>
+    </parameters>
+    <language-tag>en</language-tag>
+  </lang>
+</vcard>
