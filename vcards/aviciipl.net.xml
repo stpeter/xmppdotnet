@@ -6,7 +6,7 @@
 		<text>application</text>
 	</kind>
 	<url>
-		<uri>http://jabber.aviciipl.net</uri>
+		<uri>http://aviciipl.net</uri>
 	</url>
 	<note>
 		<text>An Polish XMPP hosted in France</text>
@@ -15,7 +15,7 @@
 		<uri>http://jabber.aviciipl.net</uri>
 	</registration>
 	<bday>
-		<date>2015</date>
+		<date>2016</date>
 	</bday>
 	<adr>
 		<country>PL</country>
@@ -29,9 +29,9 @@
 		<uri>xmpp:admin@aviciipl.net</uri>
 	</impp>
 	<geo>
-		<uri>geo:50.69,3.17</uri>
+		<uri>geo:50.69,2.07</uri>
 	</geo>
     <tz>
-        <text>Europe/Roubaix</text>
+        <text>Europe/Gravelines</text>
     </tz>
 </vcard>
