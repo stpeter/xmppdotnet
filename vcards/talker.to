@@ -1,0 +1,42 @@
+<vcard>
+  <fn>
+    <text>talker.to</text>
+  </fn>
+  <kind>
+    <text>application</text>
+  </kind>
+  <url>
+    <uri>https://talker.to</uri>
+  </url>
+  <note>
+    <text>https://talker.to -  Secure Jabber Server - no nonsense</text>
+  </note>
+  <registration xmlns='urn:xmpp:vcard:registration:1'>
+    <uri>xmpp:talker.to</uri>
+  </registration>
+  <bday>
+    <date>2016</date>
+  </bday>
+  <adr>
+    <country>DE</country>
+  </adr>
+  <ca xmlns='urn:xmpp:vcard:ca:0'>
+    <name>Let's Encrypt Authority X3</name>
+    <uri>https://letsencrypt.org/</uri>
+  </ca>
+  <name xmlns='jabber:iq:version'>Prosody</name>
+  <impp>
+    <uri>xmpp:no@talker.to</uri>
+  </impp>
+  <geo>
+    <uri>geo:51.2993,9.491</uri>
+  </geo>
+  <tz>
+    <text>Germany</text>
+  </tz>
+  <lang>
+    <parameters>
+      <pref>1</pref>
+    </parameters>
+    <language-tag>en</language-tag>
+    </lang>
