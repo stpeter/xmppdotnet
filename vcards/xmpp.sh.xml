@@ -1,0 +1,31 @@
+<vcard>
+	<fn>
+		<text>xmpp.sh</text>
+	</fn>
+	<kind>
+		<text>application</text>
+	</kind>
+	<url>
+		<uri>http://xmpp.sh/</uri>
+	</url>
+	<note>
+		<text>A privacy-oriented XMPP server</text>
+	</note>
+	<bday>
+		<date>2016</date>
+	</bday>
+	<adr>
+		<country>NL</country>
+	</adr>
+	<ca xmlns='urn:xmpp:vcard:ca:0'>
+		<name>Let's Encrypt</name>
+		<uri>https://letsencrypt.org/</uri>
+	</ca>
+	<name xmlns='jabber:iq:version'>Prosody</name>
+	<impp>
+		<uri>xmpp:adm@xmpp.sh</uri>
+	</impp>
+	<geo>
+		<uri>geo:52.382400512695,4.8994998931885</uri>
+	</geo>
+</vcard>
