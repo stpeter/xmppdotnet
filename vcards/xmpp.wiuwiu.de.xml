@@ -9,7 +9,7 @@
         <uri>https://wiuwiu.de/xmpp</uri>
     </url>
     <note>
-        <text>wiuwiu.de Jabberserver in Germany.</text>
+        <text>Full-featured and secure XMPP server hosted in Germany. TLS enforced.</text>
     </note>
     <registration xmlns='urn:xmpp:vcard:registration:1'>
         <uri>https://wiuwiu.de/xmpp</uri>
