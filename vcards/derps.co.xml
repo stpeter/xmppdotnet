@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<vcard>
+    <fn>
+        <text>derps.co</text>
+    </fn>
+    <kind>
+        <text>application</text>
+    </kind>
+    <url>
+        <uri>http://www.derps.co/</uri>
+    </url>
+    <registration xmlns="urn:xmpp:vcard:registration:1">
+        <uri>xmpp:derps.co</uri>
+    </registration>
+    <bday>
+        <date>2015</date>
+    </bday>
+    <adr>
+        <country>US</country>
+    </adr>
+    <ca xmlns="urn:xmpp:vcard:ca:0">
+        <name>StartSSL</name>
+        <uri>http://www.startssl.com/</uri>
+    </ca>
+    <name xmlns="jabber:iq:version">ejabberd</name>
+    <impp>
+        <uri>xmpp:michael@johnson.computer</uri>
+    </impp>
+    <geo>
+        <uri>geo:34.1,-84.0</uri>
+    </geo>
+    <lang>
+        <parameters>
+            <pref>1</pref>
+        </parameters>
+        <language-tag>en</language-tag>
+    </lang>
+    <email>
+        <text>support@johnson.computer</text>
+    </email>
+</vcard>
