@@ -1,0 +1,11 @@
+<vcard><fn><text>freemind.ovh</text></fn>
+<kind><text>application</text></kind>
+<url><uri>https://www.freemind.ovh/</uri></url>
+<note><text>Le serveur XMPP de la communauté Freemind, qui a pour but la promotion des logiciels et services libres et respectueux de la vie privée !</text></note>
+<registration xmlns='urn:xmpp:vcard:registration:1'><uri>xmpp:freemind.ovh</uri></registration>
+<bday><date>2017</date></bday>
+<adr><country>FR</country></adr>
+<ca xmlns='urn:xmpp:vcard:ca:0'><name>Letsencrypt</name><uri>https://letsencrypt.org</uri></ca>
+<name xmlns='jabber:iq:version'>Prosody</name>
+<impp><uri>xmpp:t0mux@freemind.ovh</uri></impp>
+<geo><uri>geo:48.86,2.34</uri></geo></vcard>
