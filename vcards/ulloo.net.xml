@@ -18,7 +18,7 @@
     <date>2016</date>
   </bday>
   <adr>
-    <country>NL</country>
+    <country>Romania</country>
   </adr>
   <ca xmlns='urn:xmpp:vcard:ca:0'>
 		<name>StartCom Ltd.</name>
@@ -32,6 +32,6 @@
     <uri>geo:52.35, 4.9166667</uri>
   </geo>
   <tz>
-    <text>Europe/Amsterdam</text>
+    <text>Europe/Bucharest</text>
   </tz>
 </vcard>
