@@ -1,0 +1,37 @@
+<vcard>
+  <fn>
+    <text>jabber.chaos-darmstadt.de</text>
+  </fn>
+  <kind>
+    <text>application</text>
+  </kind>
+  <url>
+    <uri>https://wiki.chaos-darmstadt.de/wiki/Jabber_Server</uri>
+  </url>
+  <note>
+    <text>Public Jabber Service of the CCC-ErfA Chaos Darmstadt e.V.</text>
+  </note>
+  <registration xmlns='urn:xmpp:vcard:registration:1'>
+    <uri>xmpp:jabber.chaos-darmstadt.de</uri>
+  </registration>
+  <bday>
+    <date>2013</date>
+  </bday>
+  <adr>
+    <country>DE</country>
+  </adr>
+  <ca xmlns='urn:xmpp:vcard:ca:0'>
+		<name>CAcert</name>
+		<uri>http://www.cacert.org/</uri>
+  </ca>
+  <name xmlns='jabber:iq:version'>Prosody</name>
+  <impp>
+    <uri>xmpp:admins@conference.jabber.chaos-darmstadt.de</uri>
+  </impp>
+  <geo>
+    <uri>geo:49.8792123,8.6452228</uri>
+  </geo>
+  <tz>
+    <text>Europe/Berlin</text>
+  </tz>
+</vcard>

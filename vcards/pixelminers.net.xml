@@ -1,0 +1,34 @@
+<vcard>
+	<fn>
+		<text>pixelminers.net</text>
+	</fn>
+	<kind>
+		<text>application</text>
+	</kind>
+	<url>
+    <uri>https://www.pixelminers.net/</uri>
+	</url>
+	<note>
+		<text>XMPP service for privacy loving people.</text>
+	</note>
+	<registration xmlns='urn:xmpp:vcard:registration:1'>
+		<uri>xmpp:pixelminers.net</uri>
+	</registration>
+	<bday>
+		<date>2014</date>
+	</bday>
+	<adr>
+		<country>DE</country>
+	</adr>
+	<ca xmlns='urn:xmpp:vcard:ca:0'>
+		<name>StartSSL</name>
+		<uri>http://www.startssl.com/</uri>
+	</ca>
+	<name xmlns='jabber:iq:version'>Prosody</name>
+	<impp>
+		<uri>xmpp:reezer@pixelminers.net</uri>
+	</impp>
+	<geo>
+		<uri>geo:47.6613,9.1752</uri>
+	</geo>
+</vcard>
