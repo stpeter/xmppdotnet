@@ -1,0 +1,40 @@
+<vcard>
+	<fn>
+		<text>antarctika.ml</text>
+	</fn>
+	<kind>
+		<text>application</text>
+	</kind>
+	<url>
+		<uri>https://www.antarctika.ml/</uri>
+	</url>
+	<registration xmlns='urn:xmpp:vcard:registration:1'>
+		<uri>xmpp:antarctika.ml</uri>
+	</registration>
+	<bday>
+		<date>2017</date>
+	</bday>
+	<adr>
+		<country>NL</country>
+	</adr>
+	<ca xmlns='urn:xmpp:vcard:ca:0'>
+		<name>letsencrypt</name>
+		<uri>https://letsencrypt.org/</uri>
+	</ca>
+	<name xmlns='jabber:iq:version'>Prosody</name>
+	<impp>
+		<uri>xmpp:earth@antarctika.ml</uri>
+	</impp>
+	<geo>
+		<uri>geo:52.374030,4.889690</uri>
+	</geo>
+	<lang>
+		<parameters>
+			<pref>1</pref>
+		</parameters>
+		<language-tag>en</language-tag>
+	</lang>
+	<email>
+		<text>deepcell@gmail.com</text>
+	</email>
+</vcard>
