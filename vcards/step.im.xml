@@ -1,0 +1,43 @@
+<vcard>
+  <fn>
+    <text>step.im</text>
+  </fn>
+  <kind>
+    <text>application</text>
+  </kind>
+  <url>
+    <uri>https://step.im/</uri>
+  </url>
+  <note>
+    <text>A free public XMPP server in Japan.</text>
+  </note>
+  <registration xmlns='urn:xmpp:vcard:registration:1'>
+    <uri>xmpp:step.im</uri>
+  </registration>
+  <bday>
+    <date>2011</date>
+  </bday>
+  <adr>
+    <country>JP</country>
+  </adr>
+  <ca xmlns='urn:xmpp:vcard:ca:0'>
+    <name>Letsencrypt</name>
+    <uri>https://letsencrypt.org/</uri>
+  </ca>
+  <name xmlns='jabber:iq:version'>ejabberd</name>
+  <impp>
+    <uri>xmpp:admin@step.im</uri>
+  </impp>
+  <geo>
+    <uri>geo:36.565,136.66</uri>
+  </geo>
+  <tz>
+    <text>Asia/Tokyo</text>
+  </tz>
+  <lang>
+    <parameters>
+      <pref>1</pref>
+    </parameters>
+    <language-tag>ja</language-tag>
+  </lang>
+</vcard>
