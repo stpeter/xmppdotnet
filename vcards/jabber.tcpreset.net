@@ -1,0 +1,33 @@
+<vcard>
+    <fn>
+        <text>jabber.tcpreset.net</text>
+    </fn>
+    <kind>
+        <text>application</text>
+    </kind>
+    <url>
+        <uri>https://jabber.tcpreset.net/</uri>
+    </url>
+    <note>
+        <text>jabber.tcpreset.net - Public XMPP (Jabber) Service</text>
+    </note>
+    <registration xmlns='urn:xmpp:vcard:registration:1'>
+        <uri>xmpp:jabber.tcpreset.net</uri>
+    </registration>
+    <bday>
+        <date>2017</date>
+    </bday>
+    <adr>
+        <country>UA</country>
+    </adr>
+    <ca xmlns='urn:xmpp:vcard:ca:0'>
+        <name>Letsencrypt</name>
+        <uri>http://letsencrypt.org/</uri>
+    </ca>
+    <name xmlns='jabber:iq:version'>ejabberd</name>
+    <impp>
+        <uri>xmpp:gabx@jabber.tcpreset.net</uri>
+    </impp>
+    <geo>
+        <uri>geo:50.45,30.52</uri>
+    </geo>
