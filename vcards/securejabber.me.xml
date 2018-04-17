@@ -1,0 +1,40 @@
+<vcard>
+	<fn>
+		<text>securejabber.me</text>
+	</fn>
+	<kind>
+		<text>application</text>
+	</kind>
+	<url>
+		<uri>https://securejabber.me/</uri>
+	</url>
+	<note><text>
+		A free public and secure XMPP server on:
+			securejabber.me (clearnet), 
+			giyvshdnojeivkom.onion (Tor HS v2), 
+			sidignlwz2odjhgcfhbueinmr23v5bubq2x43dskcebh5sbd2qrxtkid.onion (Tor HS v3)
+	</text></note>
+	<registration xmlns='urn:xmpp:vcard:registration:1'>
+		<uri>https://securejabber.me/register/</uri>
+	</registration>
+	<bday>
+		<date>2014</date>
+	</bday>
+	<adr>
+		<country>DE</country>
+	</adr>
+	<ca xmlns='urn:xmpp:vcard:ca:0'>
+		<name>Let's Encrypt</name>
+		<uri>https://letsencrypt.org/</uri>
+	</ca>
+	<name xmlns='jabber:iq:version'>ejabberd</name>
+	<email>
+		<text>shozen@mail-on.us</text>
+	</email>
+	<impp>
+		<uri>xmpp:admin@securejabber.me</uri>
+	</impp>
+	<key>
+		<uri>https://securejabber.me/Shozen.txt</uri>
+	</key>
+</vcard>
