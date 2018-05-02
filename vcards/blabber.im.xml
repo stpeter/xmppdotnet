@@ -1,0 +1,31 @@
+<vcard>
+	<fn>
+		<text>blabber.im</text>
+	</fn>
+	<kind>
+		<text>application</text>
+	</kind>
+	<url>
+		<uri>https://blabber.im/</uri>
+	</url>
+	<note>
+	    <text>A free public XMPP cluster.</text>
+	</note>
+	<bday>
+		<date>2018</date>
+	</bday>
+	<adr>
+		<country>DE</country>
+	</adr>
+	<ca xmlns='urn:xmpp:vcard:ca:0'>
+		<name>Let's Encrypt</name>
+		<uri>https://letsencrypt.org/</uri>
+	</ca>
+	<name xmlns='jabber:iq:version'>ejabberd</name>
+	<impp>
+		<uri>xmpp:dominion@blabber.im</uri>
+	</impp>
+    <geo>
+        <uri>geo:50.4780177,12.3332302</uri>
+    </geo>
+</vcard>
