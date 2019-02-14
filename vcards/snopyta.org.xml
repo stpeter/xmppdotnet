@@ -1,0 +1,32 @@
+<vcard>
+    <fn>
+        <text>snopyta.org</text>
+    </fn>
+    <kind>
+        <text>application</text>
+    </kind>
+    <url>
+        <uri>https://snopyta.org/</uri>
+    </url>
+    <note>
+        <text>A public and free XMPP server for everyone which respects your privacy. TLS enforced.</text>
+    </note>
+    <registration xmlns='urn:xmpp:vcard:registration:1'>
+        <uri>xmpp:snopyta.org</uri>
+    </registration>
+    <bday>
+        <date>2018</date>
+    </bday>
+    <adr>
+        <country>FI</country>
+    </adr>
+    <ca xmlns='urn:xmpp:vcard:ca:0'>
+        <name>Let's Encrypt</name>
+        <uri>https://letsencrypt.org/</uri>
+    </ca>
+    <name xmlns='jabber:iq:version'>Prosody</name>
+    <impp>
+        <uri>xmpp:snopyta@muc.snopyta.org</uri>
+    </impp>
+    <geo><uri>geo:60.34,25.03</uri></geo>
+</vcard>
