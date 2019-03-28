@@ -15,10 +15,10 @@
         <uri>xmpp:jabber.tcpreset.net</uri>
     </registration>
     <bday>
-        <date>2017</date>
+        <date>2019</date>
     </bday>
     <adr>
-        <country>UA</country>
+        <country>DE</country>
     </adr>
     <ca xmlns='urn:xmpp:vcard:ca:0'>
         <name>Letsencrypt</name>
@@ -29,5 +29,5 @@
         <uri>xmpp:gabx@jabber.tcpreset.net</uri>
     </impp>
     <geo>
-        <uri>geo:50.45,30.52</uri>
+        <uri>geo:48.32,11.60</uri>
     </geo>
