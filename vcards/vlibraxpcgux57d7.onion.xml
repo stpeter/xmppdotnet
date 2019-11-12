@@ -1,0 +1,31 @@
+<vcard>
+    <fn>
+        <text>vlibraxpcgux57d7.onion</text>
+    </fn>
+    <kind>
+        <text>application</text>
+    </kind>
+    <url>
+        <uri>http://vlibraxpcgux57d7.onion</uri>
+    </url>
+    <note>
+        <text>This is an anonymous server. No In-band registration. </text>
+    </note>
+    <bday>
+        <date>2018</date>
+    </bday>
+    <adr>
+        <country>CA</country>
+    </adr>
+    <ca xmlns='urn:xmpp:vcard:ca:0'>
+        <name>StartSSL</name>
+        <uri>http://www.startssl.com/</uri>
+    </ca>
+    <name xmlns='jabber:iq:version'>ejabberd 18.12</name>
+    <impp>
+        <uri>xmpp:mon@vlibraxpcgux57d7.onion</uri>
+    </impp>
+    <geo>
+        <uri>geo:46.718750,-71.264215</uri>
+    </geo>
+</vcard>
