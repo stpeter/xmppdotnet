@@ -1,0 +1,32 @@
+<vcard>
+    <fn>
+        <text>captflint.com</text>
+    </fn>
+    <kind>
+        <text>application</text>
+    </kind>
+    <url>
+        <uri>https://fido.odessa.ua/</uri>
+    </url>
+    <note>
+        <text>Home of FIDONET/JABBER. Public BOSH gateway at https://captflint.com:5280/bosh.</text>
+    </note>
+    <registration xmlns='urn:xmpp:vcard:registration:1'>
+        <uri>https://captflint.com:5280/register/new</uri>
+    </registration>
+    <bday>
+        <date>2020</date>
+    </bday>
+    <adr>
+        <country>UA</country>
+    </adr>
+    <ca xmlns='urn:xmpp:vcard:ca:0'>
+        <name>StartSSL</name>
+        <uri>http://www.startssl.com/</uri>
+    </ca>
+    <name xmlns='jabber:iq:version'>Ejabberd</name>
+    <impp>
+        <uri>xmpp:rs@captflint.com</uri>
+    </impp>
+    <geo><uri>geo:46.57,30.91</uri></geo>
+</vcard>
