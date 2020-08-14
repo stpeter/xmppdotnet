@@ -1,0 +1,34 @@
+<vcard>
+	<fn>
+		<text>e2e.ee</text>
+	</fn>
+	<kind>
+		<text>application</text>
+	</kind>
+	<url>
+		<uri>https://e2e.ee/</uri>
+	</url>
+	<note>
+		<text>e2e.ee is a public XMPP chat service.</text>
+	</note>
+	<registration xmlns='urn:xmpp:vcard:registration:1'>
+		<uri>https://e2e.ee/en/gst/</uri>
+	</registration>
+	<bday>
+		<date>2020</date>
+	</bday>
+	<adr>
+		<country>CO</country>
+	</adr>
+	<ca xmlns='urn:xmpp:vcard:ca:0'>
+		<name>CAcert</name>
+		<uri>https://letsencrypt.org/</uri>
+	</ca>
+	<name xmlns='jabber:iq:version'>Prosody</name>
+	<impp>
+		<uri>xmpp:edward@e2e.ee</uri>
+	</impp>
+	<geo>
+		<uri>geo:52.3563, 4.95714</uri>
+	</geo>
+</vcard>
