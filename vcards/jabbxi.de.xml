@@ -1,0 +1,37 @@
+<vcard>
+	<fn>
+		<text>jabbxi.de</text>
+	</fn>
+	<kind>
+		<text>application</text>
+	</kind>
+	<url>
+		<uri>https://jabbxi.de/</uri>
+	</url>
+	<note>
+		<text>A free public XMPP server, hostet in Gladbeck, Germany</text>
+	</note>
+	<registration xmlns='urn:xmpp:vcard:registration:1'>
+		<uri>xmpp:jabbxi.de</uri>
+	</registration>
+	<bday>
+		<date>2016</date>
+	</bday>
+	<adr>
+		<country>DE</country>		
+	</adr>
+	<ca xmlns='urn:xmpp:vcard:ca:0'>
+		<name>Let's Encrypt</name>
+		<uri>https://letsencrypt.org/</uri>
+	</ca>
+	<name xmlns='jabber:iq:version'>ejabberd</name>
+	<impp>
+		<uri>xmpp:xi@jabbxi.de</uri>
+	</impp>
+	<geo>
+		<uri>geo:51.577,6.996</uri>
+	</geo>
+</vcard>		
+
+
+
