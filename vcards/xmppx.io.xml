@@ -1,0 +1,35 @@
+<vcard>
+    <fn>
+        <text>xmppx.io</text>
+    </fn>
+    <kind>
+        <text>application</text>
+    </kind>
+    <url>
+        <uri>http://xmppx.io/</uri>
+    </url>
+    <note>
+        <text>Free Privacy Focused XMPP Chat Service. Designed in Sweeded. Hosted in Germany.</text>
+    </note>
+    <registration
+        xmlns='urn:xmpp:vcard:registration:1'>
+        <uri>xmpp:xmppx.io</uri>
+    </registration>
+    <bday>
+        <date>2020</date>
+    </bday>
+    <adr>
+        <country>DE</country>
+    </adr>
+    <ca
+        xmlns='urn:xmpp:vcard:ca:0'>
+        <name>Let's Encrypt</name>
+        <uri>http://www.letsencrypt.org/</uri>
+    </ca>
+    <name
+        xmlns='jabber:iq:version'>Prosody
+    </name>
+    <impp>
+        <uri>xmpp:admin@jabberx.net</uri>
+    </impp>
+</vcard>
